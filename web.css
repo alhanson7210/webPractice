@@ -1,4 +1,8 @@
 body {
-    color: #24292e;
+    color: black;
     background-color: #fff;
+}
+
+h1 {
+    color: grey;
 }
